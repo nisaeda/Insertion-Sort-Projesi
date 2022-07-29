@@ -1,4 +1,4 @@
-### Insertion-Sort-Projesi
+### INSERTION SORT PROJESI
 - www.patika.dev
 - Proje 1
 - Sorular
